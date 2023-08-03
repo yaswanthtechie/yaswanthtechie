@@ -1,6 +1,7 @@
+[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)]
 <h1 align="center">Hi 👋, I'm yaswanthtechie</h1>
 <h3 align="center">A passionate frontend developer & Designer from India</h3>
-
+<img align="right" alt="coding" width ="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanthtechie&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanthtechie" /> </p>
 
 - 🔭 I’m currently working on **3D Web developer Portfolio using Threejs**
